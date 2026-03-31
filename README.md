@@ -156,6 +156,32 @@ sensor:
 ```
 
 
+## Home Assistant
+
+Integration with Home Assistant is straightforward. You can create an automation
+that triggers when the value of the rotary_encoder sensor changes or when the power
+button is pressed. Example using the rotary encoder sensor, where the sensor value
+(0-100) is used to set the brightness level:
+
+```yaml
+alias: Adjust Light on Rotary Encoder Move
+description: ""
+triggers:
+  - trigger: state
+    entity_id:
+      - sensor.feller_dimmer_rotary_encoder
+conditions: []
+actions:
+  - action: light.turn_on
+    metadata: {}
+    target:
+      entity_id: light.essen_direkt_2
+    data:
+      brightness_pct: "{{ states.sensor.feller_dimmer_rotary_encoder.state | float }}"
+mode: single
+```
+
+
 ## 3D-Printed Enclosure
 
 <p align="center">
