@@ -85,14 +85,17 @@ adjust the brightness and press the button to switch the device on or off.
 </p>
 
 The trickiest part was to convert the 6 mm shaft of the rotary encoder to a
-4 mm shaft required for the Feller front plate:
+4 mm shaft required for the Feller front plate. I drilled a hole in the 6 mm
+shaft and tapped it with an M3 thread, screwed a piece of threaded rod into it
+(which I also glued in place), and finally fitted a 4 mm diameter brass ferrule:
 
 <p align="center">
   <img src="images/rotary-encoder-6to4.jpg" width="250">
 </p>
 
 **Hint:** the total height from the base plate (without the mounting screw)
-is about 11 mm, with 6-7 mm length of the 4 mm diameter shaft.
+is about 11 mm, with 6-7 mm length of the 4 mm diameter shaft. The hardware is
+easily found in a DIY store such as Bauhaus.
 
 
 ## Code
