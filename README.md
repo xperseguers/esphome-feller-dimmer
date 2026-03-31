@@ -55,6 +55,11 @@ ESPHome makes it easy to use a
 even supports the "push" function, allowing you to both turn the dial to
 adjust the brightness and press the button to switch the device on or off.
 
+And since the dial ranges from 0 to 100, 0 means the light is off; so you could
+even consider using the built-in switching function to select the light you
+wish to control, thereby controlling several lights using a single wall-mounted
+dimmer switch.
+
 
 ## Hardware
 
