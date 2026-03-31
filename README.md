@@ -168,3 +168,14 @@ It may be useful to print the drilling-guide. STL file
 [drilling-guide.stl](drilling-guide.stl) is a two-part drilling guide. Start
 with both parts mounted together, drill a hole using a 2.5mm drill bit. Then
 remove the top part and use an M3 drill bit to tap a thread.
+
+
+## Disclaimer
+
+Using this component requires you to connect consumer electronics inside your
+walls. There's 240V in that box, so please make sure you know what your doing.
+
+This code was tested by trial and error, it might blow a fuse or two.
+Connecting this to your electricity network is your own responsibility. You are
+advised to ask a professional electrical installers to connect the device to
+your home.
