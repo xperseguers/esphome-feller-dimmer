@@ -25,8 +25,8 @@ dimmers (with +/- buttons), which are easy to integrate with Home Assistant, or
 rotary dimmers, which I found more user-friendly, as they work exactly like a
 volume knob and feel more like the analogue world than the digital one.
 
-Unfortunately, when it comes to home automation for private users, Feller only
-offers push-buttons designed for professional or commercial use, based on
+Unfortunately, Feller only offers rotary dimmers designed for professional or
+commercial use, based on
 [DALI/DALI-2](https://www.feller.ch/fr/gamme/variateurs-et-regulateurs/variateur-rotatif)
 or [KNX](https://www.feller.ch/fr/connected-buildings/knx/capteurs). These are
 standardised and robust protocols, but they are rarely used in private homes.
