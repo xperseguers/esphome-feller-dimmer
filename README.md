@@ -74,7 +74,7 @@ adjust the brightness and press the button to switch the device on or off.
 |--------|-----------|----------------|----------------|
 | Red    | Out + VCC | 5V (VIN)       | 5V (VIN)       |
 | Black  | Out - GND | Ground (G/GRN) | Ground (GND)   |
-| Green  |           | D7 - GPIO13    | Key            |
+| Green  |           | D7 - GPIO13    | Key / SW       |
 | Yellow |           | D6 - GPIO12    | S2 / Clock     |
 | Orange |           | D5 - GPIO14    | S1 / DT        |
 
