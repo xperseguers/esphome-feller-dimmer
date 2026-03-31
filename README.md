@@ -4,6 +4,7 @@ you want, single light, arbitrary group of lights, the sound volume of your
 amplifier, ... you name it!
 
 <p align="center">
+  <img src="images/enclosure-mounting-plate.jpg" width="250">
   <img src="images/feller-dimmer.jpg" width="250">
 </p>
 
@@ -81,7 +82,7 @@ adjust the brightness and press the button to switch the device on or off.
   <img src="images/converter-wiring.jpg" width="250">
   <img src="images/wemos-soldering-tips.jpg" width="250"><br>
   <img src="images/components-in-enclosure.jpg" width="250">
-  <img src="images/enclosure-mounting-plate.jpg" width="250">
+  <img src="images/terminal-connector.jpg" width="250">
 </p>
 
 The trickiest part was to convert the 6 mm shaft of the rotary encoder to a
