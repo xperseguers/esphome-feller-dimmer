@@ -85,6 +85,10 @@ adjust the brightness and press the button to switch the device on or off.
   <img src="images/terminal-connector.jpg" width="250">
 </p>
 
+The photo shows a prototype using standard Dupont wires female to female to
+wire everything together. Feel free to use shorter wires, or solder normal
+wires to the components.
+
 The trickiest part was to convert the 6 mm shaft of the rotary encoder to a
 4 mm shaft required for the Feller front plate. I drilled a hole in the 6 mm
 shaft and tapped it with an M3 thread, screwed a piece of threaded rod into it
