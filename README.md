@@ -1,3 +1,5 @@
+# esphome-feller-dimmer
+
 This project provides the hardware to be used behind a Feller universal rotary
 dimmer panel that can be integrated into Home Assistant to control anything
 you want, single light, arbitrary group of lights, the sound volume of your
